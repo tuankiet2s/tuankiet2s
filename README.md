@@ -6,7 +6,7 @@
 
 
 [![Facebook Badge](https://img.shields.io/badge/-tuankiet2s-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/tuankiet2s/)](https://www.facebook.com/tuankiet2s/)
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lyhung998877@gmail.com)](mailto:lyhung998877@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-lyhung998877@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lyhung998877@gmail.com)](mailto:lyhung998877@gmail.com)
 
 
 ## ⚡ Experienced in
@@ -24,6 +24,7 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![MS SQL](https://img.shields.io/badge/-MS%20SQL-black?style=flat-square&logo=microsoft-sql-server)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
@@ -37,6 +38,7 @@
 ![redhat](https://img.shields.io/badge/-redhat-black?style=flat-square&logo=redhat)
 ![HAProxy](https://img.shields.io/badge/-HAProxy-black?style=flat-square&logo=HAProxy)
 ![Nginx](https://img.shields.io/badge/-Nginx-black?style=flat-square&logo=Nginx)
+![MikroTik](https://img.shields.io/badge/-MikroTik-black?style=flat-square&logo=MikroTik)
 
 
 ## 📈 Github Stats
@@ -48,12 +50,6 @@
 ## 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
-```text
-Week: 14 October, 2021 - 20 October, 2021
-
-JavaScript   1 hr 49 mins    ████████████████████████▓   98.02 %
-JSON         1 min
-```
 <!--END_SECTION:waka-->
 
 
