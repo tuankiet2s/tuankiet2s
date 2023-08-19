@@ -52,14 +52,16 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 10 August 2023 - To: 17 August 2023
+From: 11 August 2023 - To: 18 August 2023
 
-Total Time: 2 hrs 3 mins
+Total Time: 2 hrs 26 mins
 
-Python       1 hr 31 mins    >>>>>>>>>>>>>>>>>>-------   71.87 %
-JavaScript   19 mins         >>>>---------------------   15.42 %
-Text         12 mins         >>-----------------------   09.54 %
-Other        4 mins          >------------------------   03.17 %
+Python       1 hr 32 mins    >>>>>>>>>>>>>>>----------   60.99 %
+JavaScript   19 mins         >>>----------------------   13.08 %
+Text         19 mins         >>>----------------------   12.77 %
+Go           8 mins          >------------------------   05.83 %
+TOML         4 mins          >------------------------   02.75 %
+Other        4 mins          >------------------------   02.69 %
 ```
 
 <!--END_SECTION:waka-->
