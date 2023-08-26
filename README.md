@@ -52,15 +52,19 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 17 August 2023 - To: 24 August 2023
+From: 18 August 2023 - To: 25 August 2023
 
-Total Time: 2 hrs 4 mins
+Total Time: 8 hrs 56 mins
 
-Python        1 hr 11 mins    >>>>>>>>>>>>>>-----------   54.67 %
-Text          16 mins         >>>----------------------   12.96 %
-PowerShell    16 mins         >>>----------------------   12.84 %
-Go            8 mins          >>-----------------------   06.73 %
-Other         5 mins          >------------------------   04.31 %
+TypeScript       5 hrs 31 mins   >>>>>>>>>>>>>>>----------   61.10 %
+Python           1 hr 11 mins    >>>----------------------   13.17 %
+TSQL             56 mins         >>>----------------------   10.42 %
+Bash             23 mins         >------------------------   04.27 %
+PowerShell       16 mins         >------------------------   03.10 %
+JSON             15 mins         >------------------------   02.89 %
+Text             9 mins          -------------------------   01.82 %
+Ezhil            7 mins          -------------------------   01.44 %
+Other            5 mins          -------------------------   01.04 %
 ```
 
 <!--END_SECTION:waka-->
