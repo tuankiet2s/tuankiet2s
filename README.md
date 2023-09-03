@@ -52,16 +52,16 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 25 August 2023 - To: 01 September 2023
+From: 26 August 2023 - To: 02 September 2023
 
-Total Time: 3 hrs 52 mins
+Total Time: 1 hr 24 mins
 
-TypeScript   1 hr 24 mins    >>>>>>>>>----------------   35.33 %
-Java         1 hr 17 mins    >>>>>>>>-----------------   32.33 %
-Python       43 mins         >>>>>--------------------   18.10 %
-TSQL         13 mins         >------------------------   05.70 %
-Ezhil        7 mins          >------------------------   03.30 %
-Other        6 mins          >------------------------   02.75 %
+Python         43 mins         >>>>>>>>>>>>>------------   51.23 %
+TypeScript     23 mins         >>>>>>>------------------   28.28 %
+TSQL           13 mins         >>>>---------------------   16.15 %
+C++            1 min           -------------------------   01.96 %
+Text           1 min           -------------------------   01.87 %
+Other          0 secs          -------------------------   00.23 %
 ```
 
 <!--END_SECTION:waka-->
