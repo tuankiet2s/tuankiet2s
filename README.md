@@ -52,18 +52,16 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 31 August 2023 - To: 07 September 2023
+From: 01 September 2023 - To: 08 September 2023
 
-Total Time: 2 hrs 1 min
+Total Time: 1 hr 23 mins
 
-Python         1 hr 18 mins    >>>>>>>>>>>>>>>>---------   64.86 %
-TypeScript     23 mins         >>>>>--------------------   19.71 %
-TSQL           13 mins         >>>----------------------   11.25 %
-C++            1 min           -------------------------   01.36 %
-YAML           1 min           -------------------------   01.17 %
-Assembly       1 min           -------------------------   01.15 %
-Text           0 secs          -------------------------   00.21 %
-Other          0 secs          -------------------------   00.16 %
+Python         1 hr 18 mins    >>>>>>>>>>>>>>>>>>>>>>>>-   94.15 %
+C++            1 min           -------------------------   01.98 %
+YAML           1 min           -------------------------   01.70 %
+Assembly       1 min           -------------------------   01.67 %
+Text           0 secs          -------------------------   00.30 %
+ActionScript   0 secs          -------------------------   00.21 %
 ```
 
 <!--END_SECTION:waka-->
