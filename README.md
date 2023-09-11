@@ -52,14 +52,20 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 02 September 2023 - To: 09 September 2023
+From: 03 September 2023 - To: 10 September 2023
 
-Total Time: 1 hr 21 mins
+Total Time: 7 hrs 7 mins
 
-Python     1 hr 18 mins    >>>>>>>>>>>>>>>>>>>>>>>>-   96.34 %
-YAML       1 min           -------------------------   01.74 %
-Assembly   1 min           -------------------------   01.61 %
-Text       0 secs          -------------------------   00.31 %
+JavaScript      4 hrs 49 mins   >>>>>>>>>>>>>>>>>--------   67.67 %
+Python          1 hr 37 mins    >>>>>>-------------------   22.77 %
+PHP             22 mins         >------------------------   05.20 %
+Prolog          11 mins         >------------------------   02.67 %
+JSON            2 mins          -------------------------   00.62 %
+YAML            1 min           -------------------------   00.33 %
+Assembly        1 min           -------------------------   00.31 %
+SQL             0 secs          -------------------------   00.19 %
+Apache Config   0 secs          -------------------------   00.07 %
+Text            0 secs          -------------------------   00.06 %
 ```
 
 <!--END_SECTION:waka-->
