@@ -52,20 +52,18 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 03 September 2023 - To: 10 September 2023
+From: 04 September 2023 - To: 11 September 2023
 
-Total Time: 7 hrs 7 mins
+Total Time: 5 hrs 45 mins
 
-JavaScript      4 hrs 49 mins   >>>>>>>>>>>>>>>>>--------   67.67 %
-Python          1 hr 37 mins    >>>>>>-------------------   22.77 %
-PHP             22 mins         >------------------------   05.20 %
-Prolog          11 mins         >------------------------   02.67 %
-JSON            2 mins          -------------------------   00.62 %
-YAML            1 min           -------------------------   00.33 %
-Assembly        1 min           -------------------------   00.31 %
-SQL             0 secs          -------------------------   00.19 %
-Apache Config   0 secs          -------------------------   00.07 %
-Text            0 secs          -------------------------   00.06 %
+JavaScript      4 hrs 49 mins   >>>>>>>>>>>>>>>>>>>>>----   83.64 %
+PHP             22 mins         >>-----------------------   06.43 %
+Python          18 mins         >------------------------   05.41 %
+Prolog          11 mins         >------------------------   03.30 %
+JSON            2 mins          -------------------------   00.76 %
+SQL             0 secs          -------------------------   00.24 %
+Apache Config   0 secs          -------------------------   00.09 %
+Other           0 secs          -------------------------   00.06 %
 ```
 
 <!--END_SECTION:waka-->
