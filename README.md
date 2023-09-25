@@ -52,17 +52,11 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 16 September 2023 - To: 23 September 2023
+From: 17 September 2023 - To: 24 September 2023
 
-Total Time: 39 mins
+Total Time: 14 mins
 
-JavaScript     23 mins         >>>>>>>>>>>>>>>----------   60.36 %
-Python         14 mins         >>>>>>>>>----------------   36.51 %
-TSConfig       0 secs          -------------------------   01.13 %
-TypeScript     0 secs          -------------------------   00.96 %
-JSON           0 secs          -------------------------   00.94 %
-Batchfile      0 secs          -------------------------   00.05 %
-ActionScript   0 secs          -------------------------   00.04 %
+Python   14 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 ```
 
 <!--END_SECTION:waka-->
