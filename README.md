@@ -52,20 +52,15 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 22 September 2023 - To: 29 September 2023
+From: 23 September 2023 - To: 30 September 2023
 
 Total Time: 1 hr 51 mins
 
-TypeScript   46 mins         >>>>>>>>>>---------------   41.38 %
-JavaScript   31 mins         >>>>>>>------------------   28.20 %
-Python       24 mins         >>>>>>-------------------   22.13 %
-JSON         3 mins          >------------------------   02.86 %
-TSConfig     1 min           -------------------------   01.71 %
-CSS          1 min           -------------------------   01.38 %
-Text         0 secs          -------------------------   00.80 %
-GDScript3    0 secs          -------------------------   00.78 %
-YAML         0 secs          -------------------------   00.50 %
-Other        0 secs          -------------------------   00.10 %
+TypeScript   46 mins         >>>>>>>>>>---------------   40.38 %
+JavaScript   31 mins         >>>>>>>------------------   27.51 %
+Python       24 mins         >>>>>--------------------   21.59 %
+JSON         3 mins          >------------------------   02.79 %
+Other        2 mins          >------------------------   02.54 %
 ```
 
 <!--END_SECTION:waka-->
