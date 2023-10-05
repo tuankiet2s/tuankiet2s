@@ -52,13 +52,13 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 26 September 2023 - To: 03 October 2023
+From: 27 September 2023 - To: 04 October 2023
 
-Total Time: 3 hrs 38 mins
+Total Time: 4 hrs 57 mins
 
-JavaScript       1 hr 56 mins    >>>>>>>>>>>>-------------   46.98 %
-TypeScript       47 mins         >>>>>--------------------   19.31 %
-Other            28 mins         >>>----------------------   11.60 %
+JavaScript       2 hrs 46 mins   >>>>>>>>>>>>>------------   50.97 %
+TypeScript       48 mins         >>>>---------------------   14.96 %
+Other            28 mins         >>-----------------------   08.81 %
 ```
 
 <!--END_SECTION:waka-->
