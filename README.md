@@ -52,20 +52,20 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 16 October 2023 - To: 23 October 2023
+From: 17 October 2023 - To: 24 October 2023
 
-Total Time: 7 hrs 16 mins
+Total Time: 9 hrs 44 mins
 
-JavaScript       5 hrs 41 mins   >>>>>>>>>>>>>>>>>>>>-----   78.34 %
-Markdown         22 mins         >------------------------   05.17 %
-Python           19 mins         >------------------------   04.56 %
-JSON             14 mins         >------------------------   03.31 %
-TypeScript       10 mins         >------------------------   02.37 %
-Go               9 mins          >------------------------   02.22 %
-GraphQL          9 mins          >------------------------   02.19 %
-Ezhil            7 mins          -------------------------   01.69 %
-ActionScript 3   0 secs          -------------------------   00.05 %
-Bash             0 secs          -------------------------   00.04 %
+JavaScript       8 hrs 9 mins    >>>>>>>>>>>>>>>>>>>>>----   83.84 %
+Markdown         22 mins         >------------------------   03.86 %
+Python           19 mins         >------------------------   03.40 %
+JSON             14 mins         >------------------------   02.47 %
+TypeScript       10 mins         -------------------------   01.77 %
+Go               9 mins          -------------------------   01.65 %
+GraphQL          9 mins          -------------------------   01.63 %
+Ezhil            7 mins          -------------------------   01.27 %
+ActionScript 3   0 secs          -------------------------   00.03 %
+Bash             0 secs          -------------------------   00.03 %
 ```
 
 <!--END_SECTION:waka-->
