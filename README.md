@@ -52,15 +52,16 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 30 October 2023 - To: 06 November 2023
+From: 31 October 2023 - To: 07 November 2023
 
-Total Time: 11 hrs 23 mins
+Total Time: 9 hrs 1 min
 
-JavaScript   6 hrs 1 min     >>>>>>>>>>>>>------------   51.56 %
-Bash         3 hrs 54 mins   >>>>>>>>-----------------   33.50 %
-Java         57 mins         >>-----------------------   08.24 %
-JSON         22 mins         >------------------------   03.22 %
-Other        16 mins         >------------------------   02.41 %
+JavaScript   3 hrs 52 mins   >>>>>>>>>>>--------------   42.66 %
+Bash         3 hrs 51 mins   >>>>>>>>>>>--------------   42.51 %
+Java         57 mins         >>>----------------------   10.61 %
+JSON         17 mins         >------------------------   03.26 %
+Text         2 mins          -------------------------   00.48 %
+Other        2 mins          -------------------------   00.37 %
 ```
 
 <!--END_SECTION:waka-->
