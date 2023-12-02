@@ -52,16 +52,15 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 22 November 2023 - To: 29 November 2023
+From: 23 November 2023 - To: 30 November 2023
 
-Total Time: 3 hrs 40 mins
+Total Time: 3 hrs 33 mins
 
-JavaScript   3 hrs 9 mins    >>>>>>>>>>>>>>>>>>>>>----   84.95 %
-C            15 mins         >>-----------------------   06.79 %
-Python       7 mins          >------------------------   03.30 %
-JSON         4 mins          -------------------------   01.87 %
-Text         3 mins          -------------------------   01.48 %
-Other        3 mins          -------------------------   01.40 %
+JavaScript   3 hrs 9 mins    >>>>>>>>>>>>>>>>>>>>>>---   87.85 %
+C            15 mins         >>-----------------------   07.03 %
+JSON         4 mins          -------------------------   01.93 %
+Text         3 mins          -------------------------   01.53 %
+Other        3 mins          -------------------------   01.45 %
 ```
 
 <!--END_SECTION:waka-->
