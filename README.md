@@ -52,15 +52,14 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 06 December 2023 - To: 13 December 2023
+From: 07 December 2023 - To: 14 December 2023
 
-Total Time: 2 hrs 4 mins
+Total Time: 3 hrs 2 mins
 
-JavaScript   1 hr 54 mins    >>>>>>>>>>>>>>>>>>>>>>>--   91.58 %
-Python       8 mins          >>-----------------------   07.01 %
-Bash         1 min           -------------------------   01.21 %
-JSON         0 secs          -------------------------   00.17 %
-HTML         0 secs          -------------------------   00.04 %
+JavaScript   2 hrs 48 mins   >>>>>>>>>>>>>>>>>>>>>>>--   91.85 %
+Python       8 mins          >------------------------   04.75 %
+JSON         2 mins          -------------------------   01.55 %
+Other        1 min           -------------------------   00.97 %
 ```
 
 <!--END_SECTION:waka-->
