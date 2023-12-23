@@ -52,18 +52,18 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 14 December 2023 - To: 21 December 2023
+From: 15 December 2023 - To: 22 December 2023
 
-Total Time: 4 hrs 8 mins
+Total Time: 8 hrs 23 mins
 
-JavaScript   2 hrs 48 mins   >>>>>>>>>>>>>>>>>--------   67.55 %
-YAML         21 mins         >>-----------------------   08.50 %
-Python       14 mins         >------------------------   05.90 %
-Docker       12 mins         >------------------------   05.19 %
-JSON         11 mins         >------------------------   04.63 %
-Bash         10 mins         >------------------------   04.18 %
-Text         8 mins          >------------------------   03.53 %
-Other        1 min           -------------------------   00.52 %
+JavaScript   3 hrs 19 mins   >>>>>>>>>>---------------   39.43 %
+Python       2 hrs 32 mins   >>>>>>>>-----------------   30.10 %
+JSON         1 hr 1 min      >>>----------------------   12.13 %
+YAML         52 mins         >>>----------------------   10.39 %
+Docker       12 mins         >------------------------   02.56 %
+Text         11 mins         >------------------------   02.28 %
+Bash         10 mins         >------------------------   02.06 %
+Other        2 mins          -------------------------   00.41 %
 ```
 
 <!--END_SECTION:waka-->
