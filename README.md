@@ -52,20 +52,20 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 27 December 2023 - To: 03 January 2024
+From: 28 December 2023 - To: 04 January 2024
 
-Total Time: 11 hrs 53 mins
+Total Time: 15 hrs 50 mins
 
-Batchfile         3 hrs 6 mins    >>>>>>>------------------   26.08 %
-Python            2 hrs 45 mins   >>>>>>-------------------   23.16 %
-JavaScript        2 hrs 44 mins   >>>>>>-------------------   23.03 %
-Bash              1 hr 5 mins     >>-----------------------   09.20 %
-Go                36 mins         >------------------------   05.05 %
-Docker            26 mins         >------------------------   03.77 %
-JSON              21 mins         >------------------------   03.00 %
-TypeScript        13 mins         -------------------------   01.90 %
-SSH Config        10 mins         -------------------------   01.40 %
-YAML              6 mins          -------------------------   00.87 %
+Python            6 hrs           >>>>>>>>>----------------   37.77 %
+Batchfile         3 hrs 26 mins   >>>>>--------------------   21.65 %
+JavaScript        3 hrs 7 mins    >>>>>--------------------   19.69 %
+Bash              1 hr 5 mins     >>-----------------------   06.91 %
+Go                36 mins         >------------------------   03.79 %
+Docker            26 mins         >------------------------   02.83 %
+JSON              21 mins         >------------------------   02.26 %
+TypeScript        13 mins         -------------------------   01.43 %
+SSH Config        10 mins         -------------------------   01.05 %
+YAML              6 mins          -------------------------   00.66 %
 ```
 
 <!--END_SECTION:waka-->
