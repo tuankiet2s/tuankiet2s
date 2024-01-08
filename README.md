@@ -52,19 +52,14 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 30 December 2023 - To: 06 January 2024
+From: 31 December 2023 - To: 07 January 2024
 
-Total Time: 22 hrs 37 mins
+Total Time: 24 hrs 23 mins
 
-Python             11 hrs 50 mins  >>>>>>>>>>>>>------------   52.15 %
-JavaScript         5 hrs 52 mins   >>>>>>-------------------   25.85 %
-Batchfile          3 hrs 37 mins   >>>>---------------------   15.98 %
-Docker             26 mins         -------------------------   01.98 %
-C#                 20 mins         -------------------------   01.48 %
-JSON               12 mins         -------------------------   00.92 %
-Text               6 mins          -------------------------   00.47 %
-YAML               6 mins          -------------------------   00.44 %
-Other              5 mins          -------------------------   00.37 %
+Python             12 hrs 22 mins  >>>>>>>>>>>--------------   44.36 %
+JavaScript         6 hrs 45 mins   >>>>>>-------------------   24.21 %
+Batchfile          3 hrs 37 mins   >>>----------------------   13.00 %
+Other              3 hrs 31 mins   >>>----------------------   12.62 %
 ```
 
 <!--END_SECTION:waka-->
