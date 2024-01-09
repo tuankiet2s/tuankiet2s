@@ -52,14 +52,13 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 31 December 2023 - To: 07 January 2024
+From: 01 January 2024 - To: 08 January 2024
 
-Total Time: 24 hrs 23 mins
+Total Time: 24 hrs 21 mins
 
-Python             12 hrs 22 mins  >>>>>>>>>>>--------------   44.36 %
-JavaScript         6 hrs 45 mins   >>>>>>-------------------   24.21 %
-Batchfile          3 hrs 37 mins   >>>----------------------   13.00 %
-Other              3 hrs 31 mins   >>>----------------------   12.62 %
+Python             12 hrs 22 mins  >>>>>>>>>>---------------   41.73 %
+JavaScript         6 hrs 45 mins   >>>>>>-------------------   22.78 %
+Other              5 hrs 18 mins   >>>>---------------------   17.91 %
 ```
 
 <!--END_SECTION:waka-->
