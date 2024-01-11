@@ -52,12 +52,12 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 02 January 2024 - To: 09 January 2024
+From: 03 January 2024 - To: 10 January 2024
 
-Total Time: 25 hrs 26 mins
+Total Time: 20 hrs 23 mins
 
-Python             13 hrs 26 mins  >>>>>>>>>>---------------   40.71 %
-Other              7 hrs 34 mins   >>>>>>-------------------   22.94 %
+Python             11 hrs 42 mins  >>>>>>>>>>---------------   39.48 %
+Other              9 hrs 16 mins   >>>>>>>>-----------------   31.24 %
 ```
 
 <!--END_SECTION:waka-->
