@@ -52,11 +52,11 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 12 January 2024 - To: 19 January 2024
+From: 13 January 2024 - To: 20 January 2024
 
 Total Time: 50 mins
 
-Other          30 hrs 9 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   97.27 %
+Other          26 hrs 52 mins  >>>>>>>>>>>>>>>>>>>>>>>>-   96.95 %
 ```
 
 <!--END_SECTION:waka-->
