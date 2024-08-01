@@ -52,11 +52,11 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 23 July 2024 - To: 30 July 2024
+From: 24 July 2024 - To: 31 July 2024
 
-Total Time: 2 hrs 13 mins
+Total Time: 1 hr 42 mins
 
-Other       19 hrs 17 mins  >>>>>>>>>>>>>>>>>>>>>>---   89.67 %
+Other       17 hrs 10 mins  >>>>>>>>>>>>>>>>>>>>>>>--   90.96 %
 ```
 
 <!--END_SECTION:waka-->
