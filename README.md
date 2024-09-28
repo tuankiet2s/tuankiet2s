@@ -52,11 +52,11 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 19 September 2024 - To: 26 September 2024
+From: 20 September 2024 - To: 27 September 2024
 
-Total Time: 4 hrs 41 mins
+Total Time: 8 hrs
 
-Other        32 hrs 37 mins  >>>>>>>>>>>>>>>>>>>>>>---   87.43 %
+Other        38 hrs 32 mins  >>>>>>>>>>>>>>>>>>>>>----   82.80 %
 ```
 
 <!--END_SECTION:waka-->
