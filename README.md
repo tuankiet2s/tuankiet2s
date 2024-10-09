@@ -52,13 +52,20 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 30 September 2024 - To: 07 October 2024
+From: 01 October 2024 - To: 08 October 2024
 
-Total Time: 34 hrs 27 mins
+Total Time: 19 hrs 9 mins
 
-TypeScript   11 hrs 56 mins  >>>>>>>------------------   28.00 %
-Python       11 hrs 9 mins   >>>>>>>------------------   26.18 %
-Other        8 hrs 10 mins   >>>>>--------------------   19.18 %
+TypeScript   14 hrs 22 mins  >>>>>>>>>>>>>>>>>>>------   74.86 %
+Python       1 hr 43 mins    >>-----------------------   08.96 %
+YAML         1 hr 10 mins    >>-----------------------   06.16 %
+Prisma       35 mins         >------------------------   03.07 %
+JavaScript   26 mins         >------------------------   02.32 %
+Docker       15 mins         -------------------------   01.35 %
+Bash         15 mins         -------------------------   01.34 %
+JSON         10 mins         -------------------------   00.90 %
+PHP          5 mins          -------------------------   00.50 %
+Other        2 mins          -------------------------   00.22 %
 ```
 
 <!--END_SECTION:waka-->
