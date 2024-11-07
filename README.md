@@ -52,12 +52,11 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 28 October 2024 - To: 04 November 2024
+From: 29 October 2024 - To: 05 November 2024
 
-Total Time: 28 hrs 29 mins
+Total Time: 25 hrs 35 mins
 
-TypeScript     21 hrs 48 mins  >>>>>>>>>>>--------------   45.21 %
-Other          19 hrs 46 mins  >>>>>>>>>>---------------   40.97 %
+Other             19 hrs 56 mins  >>>>>>>>>>>--------------   43.80 %
 ```
 
 <!--END_SECTION:waka-->
