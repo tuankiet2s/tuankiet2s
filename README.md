@@ -52,14 +52,14 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 01 December 2024 - To: 08 December 2024
+From: 02 December 2024 - To: 09 December 2024
 
-Total Time: 28 hrs 26 mins
+Total Time: 30 hrs 5 mins
 
-TypeScript   13 hrs 9 mins   >>>>>>>>>>>--------------   44.19 %
-Python       6 hrs 43 mins   >>>>>>-------------------   22.58 %
-JSON         1 hr 47 mins    >>-----------------------   06.00 %
-Other        1 hr 19 mins    >------------------------   04.44 %
+TypeScript   15 hrs 4 mins   >>>>>>>>>>>>-------------   47.94 %
+Python       6 hrs 43 mins   >>>>>--------------------   21.37 %
+JSON         1 hr 47 mins    >------------------------   05.67 %
+Other        1 hr 22 mins    >------------------------   04.36 %
 ```
 
 <!--END_SECTION:waka-->
