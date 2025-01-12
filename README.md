@@ -52,13 +52,13 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 02 January 2025 - To: 09 January 2025
+From: 03 January 2025 - To: 10 January 2025
 
-Total Time: 10 hrs 38 mins
+Total Time: 9 hrs 35 mins
 
-TypeScript   7 hrs 27 mins   >>>>>>>>>>>>>>>----------   59.81 %
-Python       1 hr 58 mins    >>>>---------------------   15.91 %
-Other        1 hr 48 mins    >>>>---------------------   14.55 %
+TypeScript   7 hrs 6 mins    >>>>>>>>>>>>>>>>>--------   67.81 %
+Python       1 hr 56 mins    >>>>>--------------------   18.52 %
+Other        52 mins         >>-----------------------   08.42 %
 ```
 
 <!--END_SECTION:waka-->
