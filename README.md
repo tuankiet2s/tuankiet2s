@@ -52,11 +52,11 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 19 January 2025 - To: 26 January 2025
+From: 20 January 2025 - To: 27 January 2025
 
-Total Time: 1 hr 8 mins
+Total Time: 52 mins
 
-Other        37 mins         >>>>>>>>>----------------   35.28 %
+Other        51 mins         >>>>>>>>>>>>-------------   49.89 %
 ```
 
 <!--END_SECTION:waka-->
