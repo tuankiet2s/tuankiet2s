@@ -52,12 +52,11 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 28 February 2025 - To: 07 March 2025
+From: 01 March 2025 - To: 08 March 2025
 
-Total Time: 6 hrs 24 mins
+Total Time: 8 hrs
 
-Python       5 hrs 24 mins   >>>>>>>>>>>>-------------   49.66 %
-Other        4 hrs 28 mins   >>>>>>>>>>---------------   41.14 %
+Other             6 hrs 22 mins   >>>>>>>>>>>--------------   44.29 %
 ```
 
 <!--END_SECTION:waka-->
