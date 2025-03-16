@@ -52,11 +52,11 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 06 March 2025 - To: 13 March 2025
+From: 07 March 2025 - To: 14 March 2025
 
-Total Time: 9 hrs 37 mins
+Total Time: 8 hrs 57 mins
 
-Other             5 hrs 17 mins   >>>>>>>>>----------------   35.52 %
+Other             4 hrs 1 min     >>>>>>>>-----------------   31.00 %
 ```
 
 <!--END_SECTION:waka-->
