@@ -52,15 +52,15 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 26 March 2025 - To: 02 April 2025
+From: 27 March 2025 - To: 03 April 2025
 
-Total Time: 6 hrs 27 mins
+Total Time: 4 hrs 31 mins
 
-JavaScript   5 hrs 9 mins    >>>>>>>>>>>>>>>>>>>>-----   78.09 %
-C            34 mins         >>-----------------------   08.64 %
-JSON         11 mins         >------------------------   02.95 %
-Markdown     9 mins          >------------------------   02.48 %
-Other        8 mins          >------------------------   02.24 %
+JavaScript   3 hrs 33 mins   >>>>>>>>>>>>>>>>>>>------   76.53 %
+C            26 mins         >>-----------------------   09.52 %
+Markdown     9 mins          >------------------------   03.53 %
+Text         8 mins          >------------------------   02.95 %
+Other        7 mins          >------------------------   02.57 %
 ```
 
 <!--END_SECTION:waka-->
