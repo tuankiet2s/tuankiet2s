@@ -52,11 +52,20 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 03 April 2025 - To: 10 April 2025
+From: 04 April 2025 - To: 11 April 2025
 
-Total Time: 32 mins
+Total Time: 2 hrs 22 mins
 
-Other   9 mins          >>>>>>-------------------   23.46 %
+C                                  1 hr 21 mins    >>>>>>>>>>>>>>-----------   57.03 %
+Batchfile                          37 mins         >>>>>>>------------------   26.26 %
+Text                               8 mins          >------------------------   05.83 %
+Markdown                           4 mins          >------------------------   03.00 %
+JSON                               4 mins          >------------------------   02.87 %
+Denizen                            1 min           -------------------------   01.36 %
+Python                             1 min           -------------------------   01.34 %
+INI                                1 min           -------------------------   01.06 %
+Microsoft Visual Studio Solution   0 secs          -------------------------   00.52 %
+Other                              0 secs          -------------------------   00.41 %
 ```
 
 <!--END_SECTION:waka-->
