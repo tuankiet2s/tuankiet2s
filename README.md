@@ -52,14 +52,16 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 16 April 2025 - To: 23 April 2025
+From: 17 April 2025 - To: 24 April 2025
 
-Total Time: 4 hrs 13 mins
+Total Time: 3 hrs 36 mins
 
-C                                  2 hrs 4 mins    >>>>>>>>>>>--------------   44.81 %
-PowerShell                         1 hr 1 min      >>>>>>-------------------   22.20 %
-JSON                               42 mins         >>>>---------------------   15.42 %
-Other                              24 mins         >>-----------------------   08.67 %
+C                                  1 hr 32 mins    >>>>>>>>>>---------------   41.67 %
+JSON                               37 mins         >>>>---------------------   16.71 %
+Python                             33 mins         >>>>---------------------   15.10 %
+C#                                 24 mins         >>>----------------------   10.85 %
+HTML                               8 mins          >------------------------   03.99 %
+Other                              5 mins          >------------------------   02.56 %
 ```
 
 <!--END_SECTION:waka-->
