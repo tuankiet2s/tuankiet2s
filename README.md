@@ -52,20 +52,11 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 23 April 2025 - To: 30 April 2025
+From: 25 April 2025 - To: 02 May 2025
 
-Total Time: 1 hr 17 mins
+Total Time: 0 secs
 
-Python       31 mins         >>>>>>>>>>---------------   40.68 %
-C#           24 mins         >>>>>>>>-----------------   31.31 %
-C            11 mins         >>>>---------------------   14.66 %
-INI          3 mins          >------------------------   04.68 %
-HTML         2 mins          >------------------------   03.59 %
-Batchfile    1 min           -------------------------   01.71 %
-Go           1 min           -------------------------   01.68 %
-TypeScript   1 min           -------------------------   01.60 %
-Markdown     0 secs          -------------------------   00.05 %
-PowerShell   0 secs          -------------------------   00.04 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
