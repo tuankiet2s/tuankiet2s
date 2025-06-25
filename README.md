@@ -52,16 +52,18 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 15 June 2025 - To: 22 June 2025
+From: 16 June 2025 - To: 23 June 2025
 
-Total Time: 49 mins
+Total Time: 1 hr
 
-Python       42 mins         >>>>>>>>>>>>>>>>>>>>>>---   86.05 %
-Bash         3 mins          >>-----------------------   06.34 %
-JSON         1 min           >------------------------   03.21 %
-JavaScript   1 min           >------------------------   02.20 %
-TypeScript   1 min           >------------------------   02.14 %
-Docker       0 secs          -------------------------   00.06 %
+Python       42 mins         >>>>>>>>>>>>>>>>>>-------   70.40 %
+PowerShell   9 mins          >>>>---------------------   15.64 %
+Bash         3 mins          >------------------------   05.19 %
+JSON         1 min           >------------------------   02.63 %
+Batchfile    1 min           >------------------------   02.54 %
+JavaScript   1 min           -------------------------   01.80 %
+TypeScript   1 min           -------------------------   01.75 %
+Docker       0 secs          -------------------------   00.05 %
 ```
 
 <!--END_SECTION:waka-->
