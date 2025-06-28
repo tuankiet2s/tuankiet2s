@@ -52,14 +52,12 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 18 June 2025 - To: 25 June 2025
+From: 19 June 2025 - To: 26 June 2025
 
-Total Time: 27 mins
+Total Time: 2 hrs 9 mins
 
-PowerShell   9 mins          >>>>>>>>-----------------   30.90 %
-Python       7 mins          >>>>>>-------------------   23.75 %
-Text         4 mins          >>>>---------------------   15.32 %
-Other        3 mins          >>-----------------------   09.92 %
+C                                  1 hr 1 min      >>>>>>>>>>---------------   41.13 %
+Other                              19 mins         >>>----------------------   13.39 %
 ```
 
 <!--END_SECTION:waka-->
