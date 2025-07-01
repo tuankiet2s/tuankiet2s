@@ -52,12 +52,12 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 21 June 2025 - To: 28 June 2025
+From: 22 June 2025 - To: 29 June 2025
 
-Total Time: 2 hrs 3 mins
+Total Time: 2 hrs 16 mins
 
-C                                  1 hr 1 min      >>>>>>>>>>>--------------   42.72 %
-Other                              19 mins         >>>----------------------   13.91 %
+C                                  1 hr 1 min      >>>>>>>>>>---------------   39.31 %
+Other                              20 mins         >>>----------------------   12.85 %
 ```
 
 <!--END_SECTION:waka-->
