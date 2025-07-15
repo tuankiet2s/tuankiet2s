@@ -52,18 +52,16 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 05 July 2025 - To: 12 July 2025
+From: 06 July 2025 - To: 13 July 2025
 
-Total Time: 7 hrs 55 mins
+Total Time: 5 hrs 50 mins
 
-Python             4 hrs 10 mins   >>>>>>>>>>>>>------------   51.54 %
-YAML               1 hr 2 mins     >>>----------------------   12.90 %
-Text               46 mins         >>-----------------------   09.67 %
-TypeScript         41 mins         >>-----------------------   08.52 %
-JSON               31 mins         >>-----------------------   06.50 %
-Wavefront Object   18 mins         >------------------------   03.73 %
-TOML               12 mins         >------------------------   02.53 %
-Other              10 mins         >------------------------   02.23 %
+Python             3 hrs 19 mins   >>>>>>>>>>>>>>-----------   55.25 %
+YAML               57 mins         >>>>---------------------   15.98 %
+Text               46 mins         >>>----------------------   13.04 %
+Wavefront Object   18 mins         >------------------------   05.04 %
+TypeScript         11 mins         >------------------------   03.12 %
+Other              9 mins          >------------------------   02.77 %
 ```
 
 <!--END_SECTION:waka-->
