@@ -52,19 +52,16 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 10 July 2025 - To: 17 July 2025
+From: 11 July 2025 - To: 18 July 2025
 
-Total Time: 3 hrs 42 mins
+Total Time: 6 hrs 7 mins
 
-JSON                               1 hr 10 mins    >>>>>>>>-----------------   30.91 %
-C                                  52 mins         >>>>>>-------------------   23.10 %
-Python                             26 mins         >>>----------------------   11.41 %
-JSON with Comments                 15 mins         >>-----------------------   06.94 %
-Markdown                           15 mins         >>-----------------------   06.81 %
-CMake                              9 mins          >------------------------   04.02 %
-Bash                               7 mins          >------------------------   03.26 %
-Batchfile                          6 mins          >------------------------   02.94 %
-Other                              6 mins          >------------------------   02.92 %
+C                                  2 hrs 11 mins   >>>>>>>>>----------------   34.20 %
+JSON                               1 hr 38 mins    >>>>>>-------------------   25.48 %
+Markdown                           33 mins         >>-----------------------   08.75 %
+Python                             26 mins         >>-----------------------   06.79 %
+Batchfile                          24 mins         >>-----------------------   06.36 %
+Other                              17 mins         >------------------------   04.60 %
 ```
 
 <!--END_SECTION:waka-->
