@@ -52,14 +52,12 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 15 July 2025 - To: 22 July 2025
+From: 16 July 2025 - To: 23 July 2025
 
-Total Time: 8 hrs 13 mins
+Total Time: 7 hrs 7 mins
 
-C                                  2 hrs 21 mins   >>>>>>-------------------   25.40 %
-JSON                               1 hr 40 mins    >>>>---------------------   17.96 %
-Python                             1 hr 16 mins    >>>----------------------   13.63 %
-Other                              1 hr 4 mins     >>>----------------------   11.52 %
+C                                  1 hr 45 mins    >>>>>--------------------   20.76 %
+Other                              1 hr 19 mins    >>>>---------------------   15.64 %
 ```
 
 <!--END_SECTION:waka-->
