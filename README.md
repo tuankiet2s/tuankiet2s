@@ -52,14 +52,14 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 24 July 2025 - To: 31 July 2025
+From: 25 July 2025 - To: 01 August 2025
 
-Total Time: 11 hrs 6 mins
+Total Time: 10 hrs 33 mins
 
-C                    4 hrs 17 mins   >>>>>>>>>----------------   34.27 %
-TypeScript           3 hrs 7 mins    >>>>>>-------------------   24.91 %
-Batchfile            1 hr 41 mins    >>>----------------------   13.49 %
-Other                1 hr 25 mins    >>>----------------------   11.40 %
+TypeScript           4 hrs 38 mins   >>>>>>>>>>---------------   40.53 %
+C                    1 hr 44 mins    >>>>---------------------   15.20 %
+Markdown             59 mins         >>-----------------------   08.74 %
+Other                52 mins         >>-----------------------   07.69 %
 ```
 
 <!--END_SECTION:waka-->
