@@ -52,17 +52,17 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 02 August 2025 - To: 09 August 2025
+From: 03 August 2025 - To: 10 August 2025
 
-Total Time: 30 hrs 6 mins
+Total Time: 23 hrs 38 mins
 
-TypeScript                 11 hrs 47 mins  >>>>>>>>>>---------------   38.10 %
-YAML                       9 hrs 32 mins   >>>>>>>>-----------------   30.86 %
-PowerShell                 1 hr 46 mins    >------------------------   05.75 %
-Bash                       1 hr 9 mins     >------------------------   03.74 %
-JavaScript                 1 hr 6 mins     >------------------------   03.59 %
-Markdown                   51 mins         >------------------------   02.79 %
-Other                      50 mins         >------------------------   02.70 %
+TypeScript                 10 hrs 1 min    >>>>>>>>>>---------------   41.38 %
+YAML                       7 hrs 2 mins    >>>>>>>------------------   29.08 %
+PowerShell                 1 hr 46 mins    >>-----------------------   07.35 %
+JavaScript                 1 hr 5 mins     >------------------------   04.51 %
+Bash                       55 mins         >------------------------   03.84 %
+Markdown                   35 mins         >------------------------   02.48 %
+Other                      35 mins         >------------------------   02.41 %
 ```
 
 <!--END_SECTION:waka-->
