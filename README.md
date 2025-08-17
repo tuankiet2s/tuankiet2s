@@ -52,20 +52,20 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 07 August 2025 - To: 14 August 2025
+From: 08 August 2025 - To: 15 August 2025
 
-Total Time: 10 hrs 11 mins
+Total Time: 7 hrs 14 mins
 
-YAML                       3 hrs 23 mins   >>>>>>>>-----------------   33.05 %
-TypeScript                 2 hrs 39 mins   >>>>>>-------------------   25.96 %
-Python                     1 hr 15 mins    >>>----------------------   12.25 %
-Bash                       45 mins         >>-----------------------   07.33 %
-JavaScript                 31 mins         >------------------------   05.18 %
-JSON                       22 mins         >------------------------   03.73 %
-Text                       18 mins         >------------------------   03.01 %
-Docker                     15 mins         >------------------------   02.47 %
-Markdown                   11 mins         -------------------------   01.81 %
-Git Config                 6 mins          -------------------------   01.12 %
+YAML                       2 hrs 38 mins   >>>>>>>>>----------------   36.28 %
+TypeScript                 1 hr 47 mins    >>>>>>-------------------   24.64 %
+Python                     45 mins         >>>----------------------   10.40 %
+Bash                       35 mins         >>-----------------------   08.16 %
+Text                       18 mins         >------------------------   04.23 %
+Docker                     14 mins         >------------------------   03.31 %
+JSON                       14 mins         >------------------------   03.26 %
+Markdown                   11 mins         >------------------------   02.53 %
+Nginx configuration file   5 mins          -------------------------   01.29 %
+HTML                       4 mins          -------------------------   01.11 %
 ```
 
 <!--END_SECTION:waka-->
