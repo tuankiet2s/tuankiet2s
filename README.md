@@ -52,12 +52,12 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 20 August 2025 - To: 27 August 2025
+From: 22 August 2025 - To: 29 August 2025
 
-Total Time: 54 mins
+Total Time: 28 mins
 
-TOML              21 mins         >>>>>>>>>----------------   34.88 %
-Other             7 mins          >>>----------------------   12.52 %
+TOML              8 mins          >>>>>>-------------------   23.18 %
+Other             7 mins          >>>>>--------------------   21.50 %
 ```
 
 <!--END_SECTION:waka-->
