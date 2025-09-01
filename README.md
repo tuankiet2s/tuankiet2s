@@ -52,12 +52,14 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 22 August 2025 - To: 29 August 2025
+From: 23 August 2025 - To: 30 August 2025
 
-Total Time: 28 mins
+Total Time: 6 mins
 
-TOML              8 mins          >>>>>>-------------------   23.18 %
-Other             7 mins          >>>>>--------------------   21.50 %
+JSON              2 mins          >>>>>>>>>>>>-------------   49.11 %
+Java Properties   1 min           >>>>>>>------------------   27.01 %
+Markdown          1 min           >>>>>--------------------   18.83 %
+Text              0 secs          >------------------------   05.05 %
 ```
 
 <!--END_SECTION:waka-->
