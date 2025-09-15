@@ -52,12 +52,12 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 05 September 2025 - To: 12 September 2025
+From: 06 September 2025 - To: 13 September 2025
 
-Total Time: 31 mins
+Total Time: 29 mins
 
-Python       27 mins         >>>>>>>>>>>>>>>>>--------   66.66 %
-Other        9 mins          >>>>>>-------------------   22.61 %
+Python       25 mins         >>>>>>>>>>>>>>>>---------   65.16 %
+Other        9 mins          >>>>>>-------------------   23.62 %
 ```
 
 <!--END_SECTION:waka-->
