@@ -52,12 +52,18 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 12 September 2025 - To: 19 September 2025
+From: 13 September 2025 - To: 20 September 2025
 
-Total Time: 25 mins
+Total Time: 2 hrs 1 min
 
-JavaScript   17 mins         >>>>>>>>>>>>>>>>>--------   66.18 %
-Python       8 mins          >>>>>>>>-----------------   33.82 %
+TypeScript         1 hr 19 mins    >>>>>>>>>>>>>>>>---------   65.57 %
+Python             20 mins         >>>>---------------------   17.18 %
+JavaScript         17 mins         >>>>---------------------   14.05 %
+Git Config         2 mins          >------------------------   02.22 %
+Text               0 secs          -------------------------   00.33 %
+Batchfile          0 secs          -------------------------   00.30 %
+PowerShell         0 secs          -------------------------   00.12 %
+Other              0 secs          -------------------------   00.07 %
 ```
 
 <!--END_SECTION:waka-->
