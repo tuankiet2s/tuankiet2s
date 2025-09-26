@@ -52,15 +52,17 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 15 September 2025 - To: 22 September 2025
+From: 16 September 2025 - To: 23 September 2025
 
-Total Time: 2 hrs 29 mins
+Total Time: 5 hrs 37 mins
 
-TypeScript         1 hr 19 mins    >>>>>>>>>>>>>------------   52.84 %
-Python             49 mins         >>>>>>>>-----------------   32.67 %
-JavaScript         17 mins         >>>----------------------   11.32 %
-Git Config         2 mins          -------------------------   01.79 %
-Other              0 secs          -------------------------   00.63 %
+PHP                1 hr 58 mins    >>>>>>>>>----------------   34.58 %
+TypeScript         1 hr 30 mins    >>>>>>>------------------   26.52 %
+Python             49 mins         >>>>---------------------   14.37 %
+JavaScript         36 mins         >>>----------------------   10.55 %
+C#                 21 mins         >>-----------------------   06.38 %
+Batchfile          8 mins          >------------------------   02.57 %
+Other              4 mins          -------------------------   01.46 %
 ```
 
 <!--END_SECTION:waka-->
