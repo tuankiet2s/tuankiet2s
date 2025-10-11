@@ -52,16 +52,13 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 01 October 2025 - To: 08 October 2025
+From: 02 October 2025 - To: 09 October 2025
 
-Total Time: 5 hrs 21 mins
+Total Time: 2 hrs 34 mins
 
-Python            2 hrs 49 mins   >>>>>>>>>>>>>------------   51.74 %
-TypeScript        1 hr 6 mins     >>>>>--------------------   20.17 %
-JavaScript        48 mins         >>>>---------------------   14.90 %
-PHP               17 mins         >------------------------   05.39 %
-JSON              9 mins          >------------------------   02.75 %
-Other             6 mins          -------------------------   01.98 %
+Python            2 hrs 13 mins   >>>>>>>>>>>>>>>>>>>>>----   83.34 %
+PHP               17 mins         >>>----------------------   10.94 %
+Other             5 mins          >------------------------   03.34 %
 ```
 
 <!--END_SECTION:waka-->
