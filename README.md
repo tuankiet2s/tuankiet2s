@@ -52,13 +52,13 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 05 October 2025 - To: 12 October 2025
+From: 06 October 2025 - To: 13 October 2025
 
-Total Time: 1 hr 30 mins
+Total Time: 1 hr 41 mins
 
-Rust                       44 mins         >>>>>>>>>>---------------   40.81 %
-YAML                       21 mins         >>>>>--------------------   19.79 %
-Other                      18 mins         >>>>---------------------   17.35 %
+Rust                       44 mins         >>>>>>>>>----------------   36.96 %
+YAML                       21 mins         >>>>---------------------   17.93 %
+Other                      18 mins         >>>>---------------------   15.71 %
 ```
 
 <!--END_SECTION:waka-->
