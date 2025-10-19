@@ -52,13 +52,20 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 09 October 2025 - To: 16 October 2025
+From: 10 October 2025 - To: 17 October 2025
 
-Total Time: 1 hr 55 mins
+Total Time: 1 hr 27 mins
 
-Rust                       44 mins         >>>>>>>>-----------------   33.04 %
-YAML                       21 mins         >>>>---------------------   16.03 %
-Other                      19 mins         >>>>---------------------   14.25 %
+Rust              44 mins         >>>>>>>>>>>>>------------   50.59 %
+TypeScript        11 mins         >>>----------------------   12.92 %
+Bash              8 mins          >>-----------------------   09.31 %
+JavaScript        7 mins          >>-----------------------   08.86 %
+TOML              6 mins          >>-----------------------   06.88 %
+INI               2 mins          >------------------------   03.18 %
+JSON              2 mins          >------------------------   02.91 %
+Markdown          2 mins          >------------------------   02.88 %
+Docker            0 secs          -------------------------   00.98 %
+Other             0 secs          -------------------------   00.36 %
 ```
 
 <!--END_SECTION:waka-->
