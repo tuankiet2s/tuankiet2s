@@ -52,20 +52,16 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 16 October 2025 - To: 23 October 2025
+From: 17 October 2025 - To: 24 October 2025
 
-Total Time: 40 mins
+Total Time: 2 hrs 28 mins
 
-Python            16 mins         >>>>>>>>>>---------------   41.81 %
-Text              8 mins          >>>>>--------------------   20.42 %
-Git Config        5 mins          >>>----------------------   12.53 %
-SNBT              2 mins          >------------------------   05.14 %
-YAML              2 mins          >------------------------   05.07 %
-Java Properties   1 min           >------------------------   04.72 %
-TypeScript        1 min           >------------------------   04.14 %
-Batchfile         1 min           >------------------------   03.36 %
-MDX               0 secs          -------------------------   01.45 %
-Other             0 secs          -------------------------   00.91 %
+YAML              40 mins         >>>>>>-------------------   25.81 %
+Python            37 mins         >>>>>>-------------------   23.51 %
+TOML              26 mins         >>>>---------------------   16.77 %
+Text              16 mins         >>>----------------------   10.77 %
+Git Config        11 mins         >>-----------------------   07.13 %
+Other             9 mins          >>-----------------------   06.02 %
 ```
 
 <!--END_SECTION:waka-->
