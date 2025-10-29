@@ -52,15 +52,17 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 19 October 2025 - To: 26 October 2025
+From: 20 October 2025 - To: 27 October 2025
 
-Total Time: 2 hrs 29 mins
+Total Time: 3 hrs 23 mins
 
-YAML              40 mins         >>>>>>-------------------   24.72 %
-Python            38 mins         >>>>>>-------------------   23.22 %
-TOML              26 mins         >>>>---------------------   16.06 %
-Text              16 mins         >>>----------------------   10.31 %
-Other             15 mins         >>-----------------------   09.39 %
+YAML              40 mins         >>>>>--------------------   18.56 %
+Python            38 mins         >>>>---------------------   17.43 %
+JSON              31 mins         >>>>---------------------   14.29 %
+TOML              26 mins         >>>----------------------   12.06 %
+JavaScript        22 mins         >>>----------------------   10.40 %
+Text              16 mins         >>-----------------------   07.74 %
+Other             15 mins         >>-----------------------   07.05 %
 ```
 
 <!--END_SECTION:waka-->
