@@ -52,14 +52,19 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 24 October 2025 - To: 31 October 2025
+From: 25 October 2025 - To: 01 November 2025
 
-Total Time: 1 hr 26 mins
+Total Time: 1 hr 25 mins
 
-JSON         37 mins         >>>>>>>>>>---------------   38.34 %
-JavaScript   24 mins         >>>>>>-------------------   25.00 %
-Python       15 mins         >>>>---------------------   16.31 %
-Other        10 mins         >>>----------------------   10.50 %
+JSON         37 mins         >>>>>>>>>>>--------------   43.42 %
+JavaScript   24 mins         >>>>>>>------------------   28.31 %
+Python       14 mins         >>>>---------------------   17.12 %
+INI          4 mins          >------------------------   05.65 %
+Markdown     2 mins          >------------------------   02.52 %
+SQL          1 min           >------------------------   02.06 %
+Text         0 secs          -------------------------   00.56 %
+TOML         0 secs          -------------------------   00.28 %
+Git Config   0 secs          -------------------------   00.08 %
 ```
 
 <!--END_SECTION:waka-->
