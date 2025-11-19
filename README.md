@@ -52,18 +52,20 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 09 November 2025 - To: 16 November 2025
+From: 10 November 2025 - To: 17 November 2025
 
-Total Time: 10 hrs 29 mins
+Total Time: 9 hrs 37 mins
 
-Dart                3 hrs 26 mins   >>>>>>>>-----------------   31.90 %
-Markdown            2 hrs 38 mins   >>>>>>-------------------   24.40 %
-TypeScript          1 hr 20 mins    >>>----------------------   12.38 %
-JSON                55 mins         >>-----------------------   08.50 %
-Bash                32 mins         >------------------------   04.96 %
-JavaScript          27 mins         >------------------------   04.22 %
-Python              20 mins         >------------------------   03.14 %
-Other               17 mins         >------------------------   02.73 %
+Dart                3 hrs 16 mins   >>>>>>>>-----------------   33.60 %
+Markdown            1 hr 24 mins    >>>>---------------------   14.38 %
+TypeScript          58 mins         >>-----------------------   09.93 %
+Python              46 mins         >>-----------------------   07.90 %
+Bash                41 mins         >>-----------------------   07.04 %
+Docker              40 mins         >>-----------------------   06.93 %
+JSON                38 mins         >>-----------------------   06.62 %
+JavaScript          25 mins         >------------------------   04.28 %
+YAML                23 mins         >------------------------   04.02 %
+Other               7 mins          -------------------------   01.34 %
 ```
 
 <!--END_SECTION:waka-->
