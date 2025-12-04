@@ -52,15 +52,15 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 24 November 2025 - To: 01 December 2025
+From: 25 November 2025 - To: 02 December 2025
 
-Total Time: 1 hr 16 mins
+Total Time: 1 hr 15 mins
 
-Markdown     29 mins         >>>>>>>>>----------------   35.54 %
-Python       23 mins         >>>>>>>------------------   28.33 %
-Bash         11 mins         >>>----------------------   13.66 %
-Batchfile    8 mins          >>>----------------------   10.07 %
-Other        4 mins          >>-----------------------   06.11 %
+Markdown     29 mins         >>>>>>>>>----------------   36.28 %
+Python       21 mins         >>>>>>>------------------   26.86 %
+Bash         11 mins         >>>----------------------   13.94 %
+Batchfile    8 mins          >>>----------------------   10.28 %
+Other        4 mins          >>-----------------------   06.23 %
 ```
 
 <!--END_SECTION:waka-->
