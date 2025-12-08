@@ -52,12 +52,20 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 28 November 2025 - To: 05 December 2025
+From: 29 November 2025 - To: 06 December 2025
 
-Total Time: 0 secs
+Total Time: 1 hr 18 mins
 
-Python       0 secs          >>>>>>>>>>>>>>>>>--------   66.09 %
-TypeScript   0 secs          >>>>>>>>-----------------   33.91 %
+Python       29 mins         >>>>>>>>>----------------   36.94 %
+YAML         11 mins         >>>>---------------------   15.07 %
+Bash         10 mins         >>>----------------------   12.84 %
+Docker       8 mins          >>>----------------------   11.16 %
+TypeScript   8 mins          >>>----------------------   10.76 %
+Text         5 mins          >>-----------------------   06.39 %
+Makefile     1 min           >------------------------   02.49 %
+Batchfile    1 min           >------------------------   02.36 %
+Markdown     1 min           -------------------------   01.61 %
+TOML         0 secs          -------------------------   00.19 %
 ```
 
 <!--END_SECTION:waka-->
