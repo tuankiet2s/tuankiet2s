@@ -52,12 +52,12 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 04 December 2025 - To: 11 December 2025
+From: 05 December 2025 - To: 12 December 2025
 
-Total Time: 1 hr 52 mins
+Total Time: 3 hrs 22 mins
 
-Python       31 mins         >>>>>>-------------------   22.18 %
-Other        31 mins         >>>>>--------------------   21.82 %
+TeX          1 hr 9 mins     >>>>>>>------------------   29.60 %
+Other        31 mins         >>>----------------------   13.60 %
 ```
 
 <!--END_SECTION:waka-->
