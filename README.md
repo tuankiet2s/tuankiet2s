@@ -52,12 +52,12 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 05 December 2025 - To: 12 December 2025
+From: 06 December 2025 - To: 13 December 2025
 
-Total Time: 3 hrs 22 mins
+Total Time: 2 hrs 4 mins
 
-TeX          1 hr 9 mins     >>>>>>>------------------   29.60 %
-Other        31 mins         >>>----------------------   13.60 %
+TeX          1 hr 9 mins     >>>>>>>>>>>--------------   44.44 %
+Other        31 mins         >>>>>--------------------   20.35 %
 ```
 
 <!--END_SECTION:waka-->
