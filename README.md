@@ -52,13 +52,12 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 11 December 2025 - To: 18 December 2025
+From: 12 December 2025 - To: 19 December 2025
 
-Total Time: 4 hrs 52 mins
+Total Time: 3 hrs 31 mins
 
-Terraform    2 hrs 14 mins   >>>>>>>>>>---------------   39.18 %
-TeX          1 hr 9 mins     >>>>>--------------------   20.26 %
-Other        49 mins         >>>>---------------------   14.45 %
+Terraform    2 hrs 20 mins   >>>>>>>>>>>>>>-----------   54.09 %
+Other        49 mins         >>>>>--------------------   18.89 %
 ```
 
 <!--END_SECTION:waka-->
