@@ -52,12 +52,13 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 13 December 2025 - To: 20 December 2025
+From: 14 December 2025 - To: 21 December 2025
 
-Total Time: 3 hrs 31 mins
+Total Time: 6 hrs 10 mins
 
-Terraform    2 hrs 20 mins   >>>>>>>>>>>>>>-----------   54.09 %
-Other        49 mins         >>>>>--------------------   18.89 %
+Terraform    3 hrs 53 mins   >>>>>>>>>>>>>>-----------   54.82 %
+HCL          1 hr 2 mins     >>>>---------------------   14.72 %
+Other        54 mins         >>>----------------------   12.82 %
 ```
 
 <!--END_SECTION:waka-->
