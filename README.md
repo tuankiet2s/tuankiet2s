@@ -52,14 +52,12 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 20 December 2025 - To: 27 December 2025
+From: 21 December 2025 - To: 28 December 2025
 
-Total Time: 4 hrs 21 mins
+Total Time: 1 hr 41 mins
 
-Terraform    1 hr 36 mins    >>>>>>>>-----------------   33.48 %
-YAML         1 hr 9 mins     >>>>>>-------------------   24.07 %
-HCL          28 mins         >>>----------------------   10.00 %
-Other        27 mins         >>-----------------------   09.47 %
+YAML         59 mins         >>>>>>>>>>>>-------------   48.40 %
+Other        21 mins         >>>>---------------------   17.79 %
 ```
 
 <!--END_SECTION:waka-->
