@@ -52,12 +52,12 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 21 December 2025 - To: 28 December 2025
+From: 22 December 2025 - To: 29 December 2025
 
-Total Time: 1 hr 41 mins
+Total Time: 1 hr 34 mins
 
-YAML         59 mins         >>>>>>>>>>>>-------------   48.40 %
-Other        21 mins         >>>>---------------------   17.79 %
+YAML         58 mins         >>>>>>>>>>>>-------------   49.87 %
+Other        21 mins         >>>>>--------------------   18.69 %
 ```
 
 <!--END_SECTION:waka-->
