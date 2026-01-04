@@ -52,14 +52,18 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 24 December 2025 - To: 31 December 2025
+From: 27 December 2025 - To: 03 January 2026
 
-Total Time: 3 hrs 33 mins
+Total Time: 1 hr 58 mins
 
-Python       1 hr 31 mins    >>>>>>>>>>---------------   38.97 %
-YAML         58 mins         >>>>>>-------------------   24.70 %
-Bash         23 mins         >>>----------------------   10.12 %
-Other        21 mins         >>-----------------------   09.26 %
+Python       1 hr 22 mins    >>>>>>>>>>>>>>>>>--------   69.24 %
+TypeScript   16 mins         >>>----------------------   13.63 %
+Markdown     8 mins          >>-----------------------   07.11 %
+SQL          4 mins          >------------------------   04.06 %
+Bash         3 mins          >------------------------   03.30 %
+Docker       2 mins          -------------------------   01.83 %
+Text         0 secs          -------------------------   00.82 %
+TOML         0 secs          -------------------------   00.01 %
 ```
 
 <!--END_SECTION:waka-->
