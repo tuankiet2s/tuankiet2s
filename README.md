@@ -52,16 +52,15 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 03 January 2026 - To: 10 January 2026
+From: 04 January 2026 - To: 11 January 2026
 
-Total Time: 35 mins
+Total Time: 1 hr 5 mins
 
-YAML              17 mins         >>>>>>>>>>>>-------------   49.48 %
-Go                13 mins         >>>>>>>>>>---------------   38.44 %
-Protocol Buffer   1 min           >------------------------   05.46 %
-Makefile          1 min           >------------------------   03.19 %
-Markdown          0 secs          >------------------------   02.44 %
-Docker            0 secs          -------------------------   00.98 %
+YAML              27 mins         >>>>>>>>>>---------------   40.00 %
+INI               13 mins         >>>>>--------------------   20.45 %
+Go                13 mins         >>>>>--------------------   20.24 %
+Markdown          4 mins          >>-----------------------   07.08 %
+Other             2 mins          >------------------------   04.14 %
 ```
 
 <!--END_SECTION:waka-->
