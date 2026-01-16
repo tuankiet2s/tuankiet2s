@@ -52,15 +52,13 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 06 January 2026 - To: 13 January 2026
+From: 07 January 2026 - To: 14 January 2026
 
-Total Time: 1 hr 5 mins
+Total Time: 2 hrs 16 mins
 
-YAML              27 mins         >>>>>>>>>>---------------   40.00 %
-INI               13 mins         >>>>>--------------------   20.45 %
-Go                13 mins         >>>>>--------------------   20.24 %
-Markdown          4 mins          >>-----------------------   07.08 %
-Other             2 mins          >------------------------   04.14 %
+Python            48 mins         >>>>>>>>-----------------   30.86 %
+YAML              35 mins         >>>>>>-------------------   22.69 %
+Other             19 mins         >>>----------------------   12.30 %
 ```
 
 <!--END_SECTION:waka-->
