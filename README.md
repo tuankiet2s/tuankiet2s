@@ -52,13 +52,14 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 12 January 2026 - To: 19 January 2026
+From: 13 January 2026 - To: 20 January 2026
 
-Total Time: 2 hrs 27 mins
+Total Time: 3 hrs 26 mins
 
-C++                                1 hr 11 mins    >>>>>>>>>>>--------------   43.78 %
-Python                             45 mins         >>>>>>>------------------   27.99 %
-Other                              16 mins         >>-----------------------   09.95 %
+C++                                1 hr 11 mins    >>>>>>>>-----------------   31.52 %
+Python                             45 mins         >>>>>--------------------   20.15 %
+Rust                               34 mins         >>>>---------------------   15.11 %
+Other                              21 mins         >>-----------------------   09.27 %
 ```
 
 <!--END_SECTION:waka-->
