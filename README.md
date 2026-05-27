@@ -52,15 +52,12 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 17 May 2026 - To: 24 May 2026
+From: 18 May 2026 - To: 25 May 2026
 
-Total Time: 12 mins
+Total Time: 2 mins
 
-C            9 mins                >>>>>>>>>>>>>>>>>>>------   77.39 %
-Markdown     1 min                 >>-----------------------   09.78 %
-TypeScript   0 secs                >>-----------------------   07.10 %
-Batchfile    0 secs                >------------------------   04.14 %
-Bash         0 secs                -------------------------   01.60 %
+Markdown     1 min                 >>>>>>>>>>>>>>-----------   57.13 %
+TypeScript   0 secs                >>>>>>>>>>>--------------   42.87 %
 ```
 
 <!--END_SECTION:waka-->
